@@ -27,7 +27,7 @@ const CELL_DEFAULT_VALUES: Props = {
   'vertical-align': 'middle'
 };
 
-const CELL_DEFAULT_WIDTH = 72;
+const CELL_DEFAULT_WIDTH = 120;
 
 const CELL_PROPERTIES = [
   'border-style',
